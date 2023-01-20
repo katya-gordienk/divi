@@ -5,3 +5,6 @@ body{
 .main{
     background-color: blue;
 }
+.text{
+    font-style: 14px;
+}
